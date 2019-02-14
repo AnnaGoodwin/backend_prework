@@ -10,7 +10,7 @@
 
 3. Explain the difference between an integer and a float?
 
-_An integer is a whole number, whereas a float has a decimal point._
+_**An integer is a whole number, whereas a float has a decimal point.**_
 
 4. In the space below, create a variable `animal` that holds the string `"zebra"`
 
