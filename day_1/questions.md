@@ -2,7 +2,7 @@
 
 1. How would you print the string `"Hello World!"` to the terminal?
 
-`puts "Hello"`
+`puts "Hello World!"`
 
 2. What is the character you would use to indicate comments in a ruby file?
 
@@ -10,7 +10,7 @@
 
 3. Explain the difference between an integer and a float?
 
-_An integer is a whole number, whereas a float has a decimal point._
+_**An integer is a whole number, whereas a float has a decimal point.**_
 
 4. In the space below, create a variable `animal` that holds the string `"zebra"`
 
@@ -31,4 +31,4 @@ _An integer is a whole number, whereas a float has a decimal point._
 8. Name and describe two common string methods.
 
 `.length` returns the length of a string.
-`.split` breaks down pieces of a string on a space by default, or on other characters when given an argument.
+`.split` breaks down pieces of a string on a space by default, or can split on other characters when given an argument.
